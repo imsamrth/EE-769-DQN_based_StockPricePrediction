@@ -1,0 +1,14 @@
+Link to the Video: 
+
+https://drive.google.com/drive/folders/1xY2hrPaTO1RJzv0win95v3jHl4kg7oh1?usp=sharing
+
+Link to the code on github:
+
+https://github.com/imsamrth/EE-769-DQN_based_StockPricePrediction
+
+Link to the Collaboratory: 
+
+https://colab.research.google.com/drive/1EhjkCxFdbnOeeWtN7Xd6GJiM6duVXS8O?usp=sharing
+
+
+
